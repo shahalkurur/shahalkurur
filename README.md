@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **python, react...**
+- 🌱 I’m currently learning **frondEnd...**
 
 - 💬 Ask me about **python,django,React..**
 
