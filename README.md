@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **frondEnd...**
+- 🌱 I’m a Python Full stack developer
 
 - 💬 Ask me about **python,django,React..**
 
